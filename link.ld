@@ -1,4 +1,4 @@
-/* link.ld
+/* link.ld */
 
 ENTRY(_start)
 
