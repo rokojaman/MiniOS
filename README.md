@@ -1,4 +1,4 @@
-# SimpleOS
+# MiniOS
 
 A minimal 32-bit x86 operating system built from scratch for educational purposes.  
 Demonstrates boot process, protected mode transition, interrupt handling, memory allocation, scheduling, file system basics, and kernel design fundamentals.  
