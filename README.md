@@ -1,8 +1,8 @@
 # SimpleOS
 
-A minimal 32-bit x86 operating system built from scratch for educational purposes
-Demonstrates boot process, protected mode transition, interrupt handling, memory allocation, scheduling, file system basics, and kernel design fundamentals.
-Deployed using [v86](https://copy.sh/v86/): [Link](jaman.dev)  
+A minimal 32-bit x86 operating system built from scratch for educational purposes.  
+Demonstrates boot process, protected mode transition, interrupt handling, memory allocation, scheduling, file system basics, and kernel design fundamentals.  
+Deployed using [v86](https://copy.sh/v86/): [Link](http://jaman.dev)  
 
 ## Overview
 - Custom bootloader (16-bit real mode → 32-bit protected mode)  
